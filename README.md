@@ -4,6 +4,12 @@
 
 This project demonstrates how to create a registration form using HTML, CSS, and DOM manipulation. Upon submission of the form, the entered values are appended to a table displayed below the form.
 
+## Visit the webpage
+
+ ```bash
+  https://foods-booking-form.vercel.app/
+  ```
+
 ## Problem Statement
 
 - **Create a form that includes the following fields:** First Name, Last Name, Address, Pincode, Gender, State, Country, Choice of Food (select at least 2 out of 5 options).
